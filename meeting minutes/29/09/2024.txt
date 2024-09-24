@@ -1,0 +1,26 @@
+Meeting Minutes
+
+Date: 24/09/2024
+Time: 6:00 pm - 7:00 pm
+
+Attendees:
+
+Selvakumar
+Ram
+Anand
+Sheldon
+
+Discussion Points:
+
+Discussed about use cases in clearview.
+Brainstormed on which architectural pattern to use. Decided to go with Hybrid approach of using Event driven architecture along with microservices.
+Identified required components for High level design.
+
+
+
+Action items:
+
+Ram to start preparing high level design preparing
+Anand to start ADR preparing
+Sheldon to start with ppt preparing
+To discuss about the type of database to be used.

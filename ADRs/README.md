@@ -2,7 +2,7 @@
 
 [001 We are using ADRs (template)](./001.adr-template.md)
 
-[002 Arch style for Clearview system](./002.adr-arch-style-for-job-recommendation-service.md)
+[002 Arch style for ClearView](./002.adr-arch-style-for-clearview.md)
 
 [003 Identity Provider (IdP)](./003.adr.idp.md)
 

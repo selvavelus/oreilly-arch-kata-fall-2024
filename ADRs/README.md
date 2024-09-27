@@ -14,4 +14,4 @@
 
 [007 Choice of databases](./007.adr-choice-of-databases.md)
 
-[008 Blob storage](./008.adr-cloud-storage.md)
+[008 Blob storage](./008.adr-blob-storage.md)
